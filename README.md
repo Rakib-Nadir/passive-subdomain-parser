@@ -2,7 +2,7 @@
 
 > Async passive subdomain enumeration & alive checker — built for bug bounty hunters and VAPT engineers.
 
-![Tool Banner](banner.png)
+![Tool Banner](Passive-subdomain-parser.png)
 
 ---
 
@@ -14,6 +14,12 @@
 - 💾 **Auto-saves** alive subdomains to `alive_subdomains.txt`
 - 📦 **Export** results to JSON or CSV
 - 🎨 **Rich terminal UI** — color-coded status codes, live output, summary dashboard
+
+---
+
+## 📸 Output Preview
+
+![Alive Subdomains](Alive%20Subdomains.png)
 
 ---
 
